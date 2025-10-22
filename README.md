@@ -54,17 +54,17 @@ Traditional vendor performance tracking is often **manual, time-consuming**, and
 
 ## 🏗️ Project Architecture
 
-Raw Data (CSV)
-↓
-Python ETL Pipeline (ingestion_db.py)
-↓
-SQLite Database (inventory.db)
-↓
-SQL Transformations + KPI Calculation (get_vendor_summary.py)
-↓
-Exploratory Data Analysis (Jupyter Notebook)
-↓
-Power BI Dashboard
+ - Raw Data (CSV)
+ - ↓
+ - Python ETL Pipeline (ingestion_db.py)
+ - ↓
+ - SQLite Database (inventory.db)
+ - ↓
+ - SQL Transformations + KPI Calculation (get_vendor_summary.py)
+ - ↓
+ - Exploratory Data Analysis (Jupyter Notebook)
+ - ↓
+ - Power BI Dashboard
 
 
 ---
