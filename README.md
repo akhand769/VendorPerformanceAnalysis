@@ -20,7 +20,6 @@ This project provides a complete data analytics pipeline to process, analyze, an
 - [Key Insights](#-key-insights)
 - [Future Enhancements](#-future-enhancements)
 - [Author](#-author)
-- [License](#-license)
 
 ---
 
@@ -158,3 +157,7 @@ cd vendor-performance-analytics
  - 🧠 Integrate anomaly detection on vendor performance
 
  - 🔄 Automate Power BI refresh with APIs
+
+## 👤 Author
+
+Akhand Chaurasia
