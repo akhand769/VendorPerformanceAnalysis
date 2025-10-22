@@ -118,7 +118,6 @@ The dataset contains detailed vendor-level transactional information including:
 The Power BI dashboard presents:
 - 📈 Vendor Sales & Purchase Trends
 - 💰 Gross Profit and Margin Analysis
-- 🚚 Freight Cost Distribution
 - 🏆 Top & Bottom Performing Vendors
 - 📆 Temporal trends for strategic planning
 
@@ -133,7 +132,7 @@ The Power BI dashboard presents:
 ```bash
 git clone https://github.com/akhand769/vendor-performance-analytics.git
 cd vendor-performance-analytics
-
+```
 ## 🧭 Usage Guide
 
 - 🏗️ For Analysts — Explore KPIs and trends through Jupyter Notebook.
@@ -141,3 +140,21 @@ cd vendor-performance-analytics
 - 📈 For Business Users — Interact with Power BI dashboard for decision-making.
 
 - ⚡ For Developers — Modify ETL and SQL logic for different datasets or scaling.
+
+## 🧠 Key Insights
+
+ - Automated ingestion of 2 GB+ of vendor data with no manual intervention.
+
+ - KPIs reveal top revenue-generating vendors and high-margin products.
+
+ - Power BI dashboard enables near real-time business monitoring.
+
+## 🛣️ Future Enhancements
+
+ - ⏳ Schedule ETL jobs for automated refresh
+
+ - ☁️ Migrate to cloud data warehouse (e.g., BigQuery, Snowflake)
+
+ - 🧠 Integrate anomaly detection on vendor performance
+
+ - 🔄 Automate Power BI refresh with APIs
